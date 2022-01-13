@@ -5,4 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT ZTESLOCAL04.
 *hola como estas?
-*muy bien y tu?
+*NO muy bien y tu?
