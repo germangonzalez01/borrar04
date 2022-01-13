@@ -7,4 +7,4 @@ REPORT ZTESLOCAL04.
 *hola como estas?
 *bien bien
 
-*NO muy bien y tu?
+*ahora NO muy bien y tu?
